@@ -13,6 +13,28 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Structure
+  - app
+    - page.js
+    - layout.js
+    - comics
+      - [slug]
+        - page.js
+  - assets
+    - all images
+  - components
+    - comics
+      - ...
+    - home
+      - ...
+    - layout
+      - ...
+  - data
+    - brands.json
+    - comics.json
+
+
 ## Getting Started
 
 First, run the development server:
