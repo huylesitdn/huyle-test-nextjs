@@ -4,6 +4,7 @@
 
   - Are there any improvements you could make to your submission?
     - Yes. I can improve slide button (next/prev). Ex: disabled button prev when start slide and disabled button next when last item of slide
+    - Currently the show more/less function is not good. I need to improve this function further
 
   - What would you do differently if you were allocated more time?
     - Currently, I only spend about 3 hours doing this test. I don't have any ideas for other functions yet
