@@ -1,23 +1,15 @@
 ## Questions:
   - How did you decide on the technical and architectural choices used as part of your solution?
-    ```bash
-    I use the latest next 14 with tailwind css. Regarding the structure, I used app router and did not use src to make the structure look as simple as possible
-    ```
+    - I use the latest next 14 with tailwind css. Regarding the structure, I used app router and did not use src to make the structure look as simple as possible
 
   - Are there any improvements you could make to your submission?
-    ```bash
-    Yes. I can improve slide button (next/prev). Ex: disabled button prev when start slide and disabled button next when last item of slide
-    ```
+    - Yes. I can improve slide button (next/prev). Ex: disabled button prev when start slide and disabled button next when last item of slide
 
   - What would you do differently if you were allocated more time?
-    ```bash
-    Currently, I only spend about 3 hours doing this test. I don't have any ideas for other functions yet
-    ```
+    - Currently, I only spend about 3 hours doing this test. I don't have any ideas for other functions yet
 
   - What considerations are there if this was a production app?
-    ```bash
-    If this is a production project, I need to consider performance, SEO, and user-friendliness to give users the best experience.
-    ```
+    - If this is a production project, I need to consider performance, SEO, and user-friendliness to give users the best experience.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
