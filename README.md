@@ -1,3 +1,24 @@
+## Questions:
+  - How did you decide on the technical and architectural choices used as part of your solution?
+    ```bash
+    I use the latest next 14 with tailwind css. Regarding the structure, I used app router and did not use src to make the structure look as simple as possible
+    ```
+
+  - Are there any improvements you could make to your submission?
+    ```bash
+    Yes. I can improve slide button (next/prev). Ex: disabled button prev when start slide and disabled button next when last item of slide
+    ```
+
+  - What would you do differently if you were allocated more time?
+    ```bash
+    Currently, I only spend about 3 hours doing this test. I don't have any ideas for other functions yet
+    ```
+
+  - What considerations are there if this was a production app?
+    ```bash
+    If this is a production project, I need to consider performance, SEO, and user-friendliness to give users the best experience.
+    ```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,14 +41,12 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Next version 14.0.3 + Tailwind Css
 
-To learn more about Next.js, take a look at the following resources:
+## React Slick for slide on homepage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can install and see examples here: [Link](https://react-slick.neostack.com/docs/get-started)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
